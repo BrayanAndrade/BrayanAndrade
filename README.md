@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = Brayan Andrade & layout = compact )] (https://github.com/anuraghazra/github-readme- Estatísticas)
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = Brayan Andrade )] (https://github.com/anuraghazra/github-readme- Estatísticas)
 
 <!--
 **BrayanAndrade/BrayanAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
