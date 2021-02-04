@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/brayan-andrade-58b581150/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:br4yanbr@gmail.com)
 
 <!--
 **BrayanAndrade/BrayanAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
