@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Im currently studying at Recode Pro
+
 
 FullStack Developer Jr.
 
-Im currently studying at Recode Pro
 
 Skills: JS / HTML / CSS / REACT / NODE JS / PHP / SQL / MONGO DB
 
