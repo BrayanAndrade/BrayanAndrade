@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 <!--
@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Im currently studying at Recode Pro
 
+### Hi there 👋
+
+Im currently studying at Recode Pro
 
 FullStack Developer Jr.
 
-
-Skills: JS -- HTML - CSS - REACT - NODE JS - PHP - SQL - MONGO DB
+Skills: 
+- JS - HTML - CSS - REACT - NODE JS - PHP - SQL - MONGO DB
 
 
 
