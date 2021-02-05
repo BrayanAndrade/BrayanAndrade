@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - FullStack Developer Jr.
 
-- Skills: - JS - HTML - CSS - REACT - NODE JS - PHP - SQL - MONGO DB
+- Skills:  JS - HTML - CSS - REACT - NODE JS - PHP - PYTHON - SQL - MONGO DB
 
 
 
