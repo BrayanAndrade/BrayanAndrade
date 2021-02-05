@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-Im currently studying at Recode Pro
+- Im currently studying at Recode Pro
 
-FullStack Developer Jr.
+- FullStack Developer Jr.
 
-Skills: - JS - HTML - CSS - REACT - NODE JS - PHP - SQL - MONGO DB
+- Skills: - JS - HTML - CSS - REACT - NODE JS - PHP - SQL - MONGO DB
 
 
 
