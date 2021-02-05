@@ -22,15 +22,7 @@ Im currently studying at Recode Pro
 
 FullStack Developer Jr.
 
-Skills: 
-- JS 
-- HTML 
-- CSS 
-- REACT 
-- NODE JS 
-- PHP 
-- SQL 
-- MONGO DB
+Skills: - JS - HTML - CSS - REACT - NODE JS - PHP - SQL - MONGO DB
 
 
 
