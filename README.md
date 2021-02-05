@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 -->
 
 FullStack Developer Jr.
+
 im currently studying at Recode pro
+
 Skills: JS / HTML / CSS / REACT / NODE JS / PHP / SQL / MONGO DB
+
 
 
 
