@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ### Hello World I'm Brayan 👋
 
-<img align="right" src="https://https://raw.github.com/BrayanAndrade/BrayanAndrade/blob/main/computer-illustration.png?raw=true" width="350"/>
+<img align="right" src="https://https://github.com/BrayanAndrade/BrayanAndrade/blob/main/computer-illustration.png" width="350"/>
 
 - I’m currently studying at Recode Pro
 - FullStack Developer Jr.
@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 
 </details>
 
-<br />
-<br />
-
 
 <details>
   <summary>:zap: Most Used Languages</summary>
@@ -56,9 +53,6 @@ Here are some ideas to get you started:
 
 </details>
 
-
-[linkedin]: https://linkedin.com/in/brayanandrade
-[portfolio]: https://github.com/BrayanAndrade
 
 
 
