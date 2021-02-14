@@ -38,20 +38,20 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brayanandrade&show_icons=true&theme=radical" />
 
-</details>
 
 
-<details>
+
+
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical" />
 
-</details>
+
 
 
 
