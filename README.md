@@ -33,11 +33,10 @@ Here are some ideas to get you started:
 ![MySql](https://img.shields.io/badge/-mysql-%23F7DF1C?style=flat-square&logo=mysql&logoColor=00008b&labelColor=%00008b&color=%00008b)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
+
 
 <br />
 <br />
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
 </details>
 
 
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[linkedin]: https://linkedin.com/in/brayanandrade
 [portfolio]: https://github.com/BrayanAndrade
 
 
