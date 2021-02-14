@@ -1,16 +1,6 @@
-
-
-
 <!--
 **BrayanAndrade/BrayanAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<img align="right" src="https://https://github.com/BrayanAndrade/BrayanAndrade/blob/main/computer-illustration.png?raw=true" width="350"/>
-
-<br/>
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,13 +11,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Hello World I'm Brayan 👋
 
-- Im currently studying at Recode Pro
+<img align="right" src="https://https://github.com/BrayanAndrade/BrayanAndrade/blob/main/computer-illustration.png?raw=true" width="350"/>
 
+- I’m currently studying at Recode Pro
 - FullStack Developer Jr.
 
-- Skills: ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+### Talk with me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brayan-andrade-58b581150)
+
+### Languages And Tools:
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
@@ -37,6 +33,29 @@ Here are some ideas to get you started:
 ![MySql](https://img.shields.io/badge/-mysql-%23F7DF1C?style=flat-square&logo=mysql&logoColor=00008b&labelColor=%00008b&color=%00008b)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
+
+<br />
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brayanandrade&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade" />
+
+</details>
+
+
+[linkedin]: https://linkedin.com/in/annaarsentieva
+[portfolio]: https://github.com/BrayanAndrade
 
 
 
@@ -44,5 +63,3 @@ Here are some ideas to get you started:
 
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brayan-andrade-58b581150)
