@@ -4,6 +4,11 @@
 <!--
 **BrayanAndrade/BrayanAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<img align="right" src="https://raw.githubusercontent.com/BrayanAndrade/BrayanAndrade/computer-illustration.png" width="350"/>
+
+<br/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
