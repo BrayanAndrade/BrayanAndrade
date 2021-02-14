@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ### Hello World I'm Brayan 👋
 
-<img align="right" src="https://https://github.com/BrayanAndrade/BrayanAndrade/blob/main/computer-illustration.png" width="350"/>
+<img src="https://https://github.com/BrayanAndrade/BrayanAndrade/blob/main/computer-illustration.png" width="250"/>
 
 - I’m currently studying at Recode Pro
 - FullStack Developer Jr.
