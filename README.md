@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - I’m currently studying at Recode Pro
 - FullStack Developer Jr.
 
-### Talk with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brayan-andrade-58b581150)
+
+
 
 ### Languages And Tools:
 
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+[<img align="right" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brayan-andrade-58b581150)
 
 
 
