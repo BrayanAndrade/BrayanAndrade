@@ -5,7 +5,7 @@
 **BrayanAndrade/BrayanAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<img align="right" src="https://https://github.com/BrayanAndrade/BrayanAndrade/blob/main/computer-illustration.png" width="350"/>
+<img align="right" src="https://https://github.com/BrayanAndrade/BrayanAndrade/blob/main/computer-illustration.png?raw=true" width="350"/>
 
 <br/>
 
