@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 
-<! -- <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical" /> -->
+<!-- <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical" /> -->
 
 
 
