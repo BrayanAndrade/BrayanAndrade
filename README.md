@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brayan-andrade-58b581150)
 
+[<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.js' alt='Whatsapp' height='40'>](https://api.whatsapp.com/send?phone=555521990544972&text=Ol%C3%A1)
+
 
 
 <!-- <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical" /> -->
