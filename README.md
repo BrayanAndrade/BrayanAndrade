@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <img align="right" src="https://raw.githubusercontent.com/BrayanAndrade/BrayanAndrade/main/computer-illustration.png" width="390"/>
 
 
-- FullStack Developer Jr.
-- I’m currently learning about UX/UI design
+- 💻 FullStack Developer Jr.
+- 📚 I’m currently learning about UX/UI design
 
 
 
