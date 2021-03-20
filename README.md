@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 
 ### Tools:
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-0078D4?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Illustrator-FEAA2D?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe XD-9146FF?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-845CFF?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-0078D4?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-FEAA2D?style=flat-square&logo=adobe-illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe XD-9146FF?style=flat-square&logo=adobe-xd&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-845CFF?style=flat-square&logo=figma&logoColor=white" />
 
 
 
