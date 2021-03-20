@@ -47,11 +47,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 
-![Next.js](https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=next.js&logoColor=white")
 
 
 ### Tools:
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Photoshop-0078D4?style=flat-square&logo=adobe-photoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Illustrator-FEAA2D?style=flat-square&logo=adobe-illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe XD-9146FF?style=flat-square&logo=adobe-xd&logoColor=white" />
@@ -64,12 +63,12 @@ Here are some ideas to get you started:
 ### Talk with me:
 
 <a href="https://api.whatsapp.com/send?phone=555521990544972&text=Ol%C3%A1" alt="WhatsApp">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />  
 <a href="mailto:br4yanbr@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 
 <a href="https://www.linkedin.com/in/brayanandrade/" alt="Linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"  /> 
 
 
 
