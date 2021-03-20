@@ -54,6 +54,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-845CFF?style=flat-square&logo=figma&logoColor=white" />
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical" />
+
 ### Talk with me:
 
 <a href="https://api.whatsapp.com/send?phone=555521990544972&text=Ol%C3%A1" alt="WhatsApp">
@@ -67,7 +73,7 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -77,7 +83,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical" /> -->
+<!--  -->
 
 
 
