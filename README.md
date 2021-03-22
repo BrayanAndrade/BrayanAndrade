@@ -24,18 +24,18 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/HTML5-141321?style=flat-square&logo=html5&logoColor=fd418d" />  <img src="https://img.shields.io/badge/CSS3-141321?style=flat-square&logo=css3&logoColor=fd418d" /> 
-<img src="https://img.shields.io/badge/JavaScript-141321?style=flat-square&logo=javascript&logoColor=fd418d" /> 
-<img src="https://img.shields.io/badge/PHP-141321?style=flat-square&logo=php&logoColor=fd418d" /> 
-<img src="https://img.shields.io/badge/Python-141321?style=flat-square&logo=python&logoColor=fd418d" /> 
-<img src="https://img.shields.io/badge/Node.js-141321?style=flat-square&logo=node.js&logoColor=fd418d" /> 
-<img src="https://img.shields.io/badge/MySQL-141321?style=flat-square&logo=mysql&logoColor=fd418d" />
-<img src="https://img.shields.io/badge/MongoDB-141321?style=flat-square&logo=mongodb&logoColor=fd418d" />
-<img src="https://img.shields.io/badge/React-141321?style=flat-square&logo=react&logoColor=fd418d" /> 
-<img src="https://img.shields.io/badge/React_Native-141321?style=flat-square&logo=react&logoColor=fd418d" /> 
-<img src="https://img.shields.io/badge/TypeScript-141321?style=flat-square&logo=typescript&logoColor=fd418d" /> 
-<img src="https://img.shields.io/badge/Bootstrap-141321?style=flat-square&logo=bootstrap&logoColor=fd418d" /> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-141321?style=flat-square&logo=tailwind-css&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/HTML5-141321?style=for-the-badge&logo=html5&logoColor=fd418d" />  <img src="https://img.shields.io/badge/CSS3-141321?style=flat-square&logo=css3&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/JavaScript-141321?style=for-the-badge&logo=javascript&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/PHP-141321?style=for-the-badge&logo=php&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/Python-141321?style=for-the-badge&logo=python&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/Node.js-141321?style=for-the-badge&logo=node.js&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=fd418d" />
+<img src="https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=fd418d" />
+<img src="https://img.shields.io/badge/React-141321?style=for-the-badge&logo=react&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/React_Native-141321?style=for-the-badge&logo=react&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/TypeScript-141321?style=for-the-badge&logo=typescript&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/Bootstrap-141321?style=for-the-badge&logo=bootstrap&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-141321?style=for-the-badge&logo=tailwind-css&logoColor=fd418d" /> 
 
 
 <!-- 
