@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 ### Tools:
 
  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Devicon Logo" height="30" />    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Devicon Logo" height="30" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Devicon Logo" height="30" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Devicon Logo" height="30" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="Devicon Logo" height="30" />
- <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Devicon Logo" height="30" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="30" />    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" height="30" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" height="30" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Adobbe Illustrator" height="30" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="Adobe XD" height="30" />
+ <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" height="30" />
  
 
 
