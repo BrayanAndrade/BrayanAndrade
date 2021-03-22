@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/next.js-141321?style=flat-square&logo=next.js&logoColor=fd418d" />
 <img src="https://img.shields.io/badge/Express.js-141321?style=flat-square&logo=express&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/TypeScript-141321?style=flat-square&logo=typescript&logoColor=fd418d" /> 
-<img src="https://img.shields.io/badge/npm-141321?style=flat-square&logo=npm&logoColor=white" />  <img src="https://img.shields.io/badge/Yarn-141321?style=flat-square&logo=yarn&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/npm-141321?style=flat-square&logo=npm&logoColor=fd418d" />  <img src="https://img.shields.io/badge/Yarn-141321?style=flat-square&logo=yarn&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/Bootstrap-141321?style=flat-square&logo=bootstrap&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-141321?style=flat-square&logo=tailwind-css&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/styled--components-141321?style=flat-square&logo=styled-components&logoColor=fd418d" />
