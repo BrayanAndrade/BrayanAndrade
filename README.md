@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World I'm Brayan 👋
+### Welcome to my GitHub profile!  
 
-# Welcome to my GitHub profile! 
+# Hello World I'm Brayan 👋
 
 <img align="right" src="https://raw.githubusercontent.com/BrayanAndrade/BrayanAndrade/main/computer-illustration.png" width="450" />
 
