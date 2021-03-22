@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 ### Technologies :
 
-
-
 <img src="https://img.shields.io/badge/HTML5-141321?style=flat-square&logo=html5&logoColor=fd418d" />  <img src="https://img.shields.io/badge/CSS3-141321?style=flat-square&logo=css3&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/JavaScript-141321?style=flat-square&logo=javascript&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/PHP-141321?style=flat-square&logo=php&logoColor=fd418d" /> 
@@ -36,6 +34,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-141321?style=flat-square&logo=typescript&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/Bootstrap-141321?style=flat-square&logo=bootstrap&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-141321?style=flat-square&logo=tailwind-css&logoColor=fd418d" /> 
+
+
 <!-- 
 <img src="https://img.shields.io/badge/Redux-141321?style=flat-square&logo=redux&logoColor=fd418d" />
 <img src="https://img.shields.io/badge/React_Router-141321?style=flat-square&logo=react-router&logoColor=fd418d" />
@@ -48,12 +48,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/styled--components-141321?style=flat-square&logo=styled-components&logoColor=fd418d" />
 <img src="https://img.shields.io/badge/Material--UI-141321?style=flat-square&logo=material-ui&logoColor=fd418d" /> -->
 
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools:
 
- 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="30" />    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" height="30" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" height="30" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" height="30" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Adobbe Illustrator" height="30" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="Adobe XD" height="30" />
