@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://img.shields.io/badge/HTML5-141321?style=flat-square&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-141321?style=flat-square&logo=css3&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-141321?style=flat-square&logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/PHP-141321?style=flat-square&logo=php&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Python-141321?style=flat-square&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Node.js-141321?style=flat-square&logo=node.js&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MySQL-141321?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-141321?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/React-141321?style=flat-square&logo=react&logoColor=61DAFB" /> 
-<img src="https://img.shields.io/badge/React_Native-141321?style=flat-square&logo=react&logoColor=61DAFB" /> 
+<img src="https://img.shields.io/badge/HTML5-141321?style=flat-square&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-141321?style=flat-square&logo=css3&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/JavaScript-141321?style=flat-square&logo=javascript&logoColor=fd418d" />  <img src="https://img.shields.io/badge/PHP-141321?style=flat-square&logo=php&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/Python-141321?style=flat-square&logo=python&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/Node.js-141321?style=flat-square&logo=node.js&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/MySQL-141321?style=flat-square&logo=mysql&logoColor=fd418d" />
+<img src="https://img.shields.io/badge/MongoDB-141321?style=flat-square&logo=mongodb&logoColor=fd418d" />
+<img src="https://img.shields.io/badge/React-141321?style=flat-square&logo=react&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/React_Native-141321?style=flat-square&logo=react&logoColor=fd418d" /> 
 <!-- <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
