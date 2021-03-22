@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://img.shields.io/badge/HTML5-141321?style=for-the-badge&logo=html5&logoColor=fd418d" />  <img src="https://img.shields.io/badge/CSS3-141321?style=flat-square&logo=css3&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/HTML5-141321?style=for-the-badge&logo=html5&logoColor=fd418d" />  <img src="https://img.shields.io/badge/CSS3-141321?style=for-the-badge&logo=css3&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/JavaScript-141321?style=for-the-badge&logo=javascript&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/PHP-141321?style=for-the-badge&logo=php&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/Python-141321?style=for-the-badge&logo=python&logoColor=fd418d" /> 
