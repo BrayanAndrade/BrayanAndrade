@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello World I'm Brayan 👋
+# Hello World I'm Brayan 👋
 
 <img align="right" src="https://raw.githubusercontent.com/BrayanAndrade/BrayanAndrade/main/computer-illustration.png" width="390"/>
 
