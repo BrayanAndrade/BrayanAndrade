@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📚 I’m currently learning about UX/UI design
 
 
-### Technologies :
+## Technologies :
 
 <img src="https://img.shields.io/badge/HTML5-141321?style=flat-square&logo=html5&logoColor=fd418d" />  <img src="https://img.shields.io/badge/CSS3-141321?style=flat-square&logo=css3&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/JavaScript-141321?style=flat-square&logo=javascript&logoColor=fd418d" /> 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tools:
+## Tools:
 
  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" height="30" />
  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" height="30" />
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 
 
-### Talk with me:
+## Talk with me:
 
 <a href="https://api.whatsapp.com/send?phone=555521990544972&text=Ol%C3%A1" alt="WhatsApp">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />  
