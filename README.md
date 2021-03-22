@@ -49,11 +49,24 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools:
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+ 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Devicon Logo" height="30" />    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Devicon Logo" height="30" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Devicon Logo" height="30" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Devicon Logo" height="30" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="Devicon Logo" height="30" />
+ <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Devicon Logo" height="30" />
+ 
+
+
+
+
+
+<!-- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe Photoshop-0078D4?style=flat-square&logo=adobe-photoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe illustrator-FEAA2D?style=flat-square&logo=adobe-illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe XD-9146FF?style=flat-square&logo=adobe-xd&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-845CFF?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-845CFF?style=flat-square&logo=figma&logoColor=white" /> -->
 
 
 
