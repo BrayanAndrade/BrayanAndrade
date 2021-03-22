@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Technologies :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://img.shields.io/badge/HTML5-141321?style=for-the-badge&logo=html5&logoColor=fd418d" />  <img src="https://img.shields.io/badge/CSS3-141321?style=flat-square&logo=css3&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/JavaScript-141321?style=for-the-badge&logo=javascript&logoColor=fd418d" /> 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanandrade&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
