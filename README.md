@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-141321?style=for-the-badge&logo=react&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/React_Native-141321?style=for-the-badge&logo=react&logoColor=fd418d" /> 
 <img src="https://img.shields.io/badge/Bootstrap-141321?style=for-the-badge&logo=bootstrap&logoColor=fd418d" /> 
+<img src="https://img.shields.io/badge/Sass-141321?style=for-the-badge&logo=sass&logoColor=fd418d" /> 
 
 
 
